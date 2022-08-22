@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d3222e971a4bd892",
+        "id": "ff6634dc299b4e96",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": "get power/认知/供给端报酬递增.md",
-            "staged": false
+            "file": "get power/创业/市场调查.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "get power/创业/市场调查.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "get power/创业/市场调查.md"
+              }
             }
           },
           {
@@ -133,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d3222e971a4bd892",
+  "active": "ff6634dc299b4e96",
   "lastOpenFiles": [
-    "get power/认知/供给端报酬递增.md",
-    "get power/认知/同期群分析.md",
-    "get power/认知/创新核算.md",
-    "get power/认知/现地现物.md",
+    "get power/创业/社区商店.md",
+    "get power/创业/市场调查.md",
     "get power/创业/商业计划书.md",
     "get power/创业/精益创业.md",
-    "get power/创业/未命名.md",
-    "get power/创业/市场调查.md",
-    "get power/创业/社区商店.md",
-    "work/数据分析框架.md"
+    "get power/认知/创新核算.md",
+    "get power/认知/现地现物.md",
+    "get power/认知/增长引擎.md",
+    "get power/认知/信念飞跃.md",
+    "get power/认知/同期群分析.md",
+    "get power/认知/供给端报酬递增.md"
   ]
 }
