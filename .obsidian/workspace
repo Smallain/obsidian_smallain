@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ff6634dc299b4e96",
+        "id": "7cad1384bb7e4bb4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "get power/创业/市场调查.md",
+            "file": "get power/创业/社区商店.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "get power/创业/市场调查.md",
+                "file": "get power/创业/社区商店.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "get power/创业/市场调查.md"
+                "file": "get power/创业/社区商店.md"
               }
             }
           },
@@ -137,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ff6634dc299b4e96",
+  "active": "7cad1384bb7e4bb4",
   "lastOpenFiles": [
     "get power/创业/社区商店.md",
-    "get power/创业/市场调查.md",
-    "get power/创业/商业计划书.md",
     "get power/创业/精益创业.md",
+    "get power/创业/商业计划书.md",
+    "get power/认知/成本.md",
+    "get power/认知/利润.md",
     "get power/认知/创新核算.md",
-    "get power/认知/现地现物.md",
-    "get power/认知/增长引擎.md",
-    "get power/认知/信念飞跃.md",
-    "get power/认知/同期群分析.md",
-    "get power/认知/供给端报酬递增.md"
+    "work/数据指标体系/海盗指标.md",
+    "work/数据指标体系/RARRA模型.md",
+    "work/数据指标体系/长漏斗.md",
+    "work/数据分析框架.md"
   ]
 }
