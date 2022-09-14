@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "社区商店",
+      "path": "get power/创业/社区商店.md"
+    },
+    {
+      "basename": "商业计划书",
+      "path": "get power/创业/商业计划书.md"
+    },
+    {
+      "basename": "精益创业",
+      "path": "get power/创业/精益创业.md"
+    },
+    {
+      "basename": "未命名看板",
+      "path": "未命名看板.md"
+    },
+    {
       "basename": "AIot人工智能物联网",
       "path": "get power/开发/AIot人工智能物联网.md"
+    },
+    {
+      "basename": "数学",
+      "path": "get power/开发/数学.md"
+    },
+    {
+      "basename": "Azure",
+      "path": "get power/开发/Azure.md"
     },
     {
       "basename": "农产品批发价格200指数",
@@ -11,14 +35,6 @@
     {
       "basename": "指数",
       "path": "get power/认知/指数.md"
-    },
-    {
-      "basename": "社区商店",
-      "path": "get power/创业/社区商店.md"
-    },
-    {
-      "basename": "商业计划书",
-      "path": "get power/创业/商业计划书.md"
     },
     {
       "basename": "市场调查",
@@ -39,10 +55,6 @@
     {
       "basename": "同期群分析",
       "path": "get power/认知/同期群分析.md"
-    },
-    {
-      "basename": "精益创业",
-      "path": "get power/创业/精益创业.md"
     },
     {
       "basename": "成本",
