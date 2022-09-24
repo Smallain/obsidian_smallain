@@ -11,11 +11,10 @@
             "id": "07f9953bb95c663e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "get power/开发/OpenCV.md",
-                "mode": "source",
-                "source": false
+                "file": "备注/个人pc.md",
+                "staged": false
               }
             }
           },
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "get power/开发/OpenCV.md",
+                "file": "备注/个人pc.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "get power/开发/OpenCV.md"
+                "file": "备注/个人pc.md"
               }
             }
           },
@@ -161,7 +160,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "07f9953bb95c663e",
+  "active": "19ae2430abd67684",
   "lastOpenFiles": [
     "get power/开发/OpenCV.md",
     "get power/开发/Azure.md",
