@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "get power/开发/基于树莓派的商圈人流量统计.md",
+                "file": "get power/开发/OpenCV.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "get power/开发/基于树莓派的商圈人流量统计.md",
+                "file": "get power/开发/OpenCV.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "get power/开发/基于树莓派的商圈人流量统计.md"
+                "file": "get power/开发/OpenCV.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "ce1fe839f2bf98a6",
   "lastOpenFiles": [
-    "get power/开发/数学.md",
     "get power/开发/Azure.md",
+    "get power/开发/基于树莓派的商圈人流量统计.md",
+    "get power/开发/OpenCV.md",
+    "get power/开发/AIot人工智能物联网.md",
+    "get power/开发/数学.md",
     "get power/创业/社区商店.md",
     "get power/创业/商业计划书.md",
     "get power/创业/精益创业.md",
     "未命名看板.md",
-    "get power/开发/AIot人工智能物联网.md",
-    "get power/认知/农产品批发价格200指数.md",
-    "get power/认知/指数.md",
-    "get power/创业/市场调查.md"
+    "get power/认知/农产品批发价格200指数.md"
   ]
 }
