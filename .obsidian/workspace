@@ -8,7 +8,7 @@
         "type": "split",
         "children": [
           {
-            "id": "ce1fe839f2bf98a6",
+            "id": "07f9953bb95c663e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,11 +161,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ce1fe839f2bf98a6",
+  "active": "07f9953bb95c663e",
   "lastOpenFiles": [
+    "get power/开发/OpenCV.md",
     "get power/开发/Azure.md",
     "get power/开发/基于树莓派的商圈人流量统计.md",
-    "get power/开发/OpenCV.md",
     "get power/开发/AIot人工智能物联网.md",
     "get power/开发/数学.md",
     "get power/创业/社区商店.md",
