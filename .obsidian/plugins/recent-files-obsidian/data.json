@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "树莓派",
+      "path": "get power/开发/树莓派.md"
+    },
+    {
+      "basename": "基于树莓派的商圈人流量统计",
+      "path": "get power/开发/基于树莓派的商圈人流量统计.md"
+    },
+    {
       "basename": "个人pc",
       "path": "备注/个人pc.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Azure",
       "path": "get power/开发/Azure.md"
-    },
-    {
-      "basename": "基于树莓派的商圈人流量统计",
-      "path": "get power/开发/基于树莓派的商圈人流量统计.md"
     },
     {
       "basename": "AIot人工智能物联网",

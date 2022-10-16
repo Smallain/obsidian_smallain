@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3a76a2b5a712ac92",
+        "id": "74fbc235d0180ef8",
         "type": "split",
         "children": [
           {
-            "id": "07f9953bb95c663e",
+            "id": "65494cc879b08de3",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "备注/个人pc.md",
-                "staged": false
+                "file": "get power/开发/树莓派.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "0782f6469d6696cd",
+            "id": "a126a0f6dac5c6a8",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "备注/个人pc.md",
+                "file": "get power/开发/树莓派.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "备注/个人pc.md"
+                "file": "get power/开发/树莓派.md"
               }
             }
           },
@@ -160,17 +161,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "19ae2430abd67684",
+  "active": "65494cc879b08de3",
   "lastOpenFiles": [
+    "get power/开发/基于树莓派的商圈人流量统计.md",
+    "备注/个人pc.md",
     "get power/开发/OpenCV.md",
     "get power/开发/Azure.md",
-    "get power/开发/基于树莓派的商圈人流量统计.md",
     "get power/开发/AIot人工智能物联网.md",
     "get power/开发/数学.md",
     "get power/创业/社区商店.md",
     "get power/创业/商业计划书.md",
     "get power/创业/精益创业.md",
-    "未命名看板.md",
-    "get power/认知/农产品批发价格200指数.md"
+    "未命名看板.md"
   ]
 }
