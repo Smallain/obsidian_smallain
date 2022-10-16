@@ -5,12 +5,8 @@
       "path": "get power/开发/树莓派.md"
     },
     {
-      "basename": "基于树莓派的商圈人流量统计",
-      "path": "get power/开发/基于树莓派的商圈人流量统计.md"
-    },
-    {
-      "basename": "个人pc",
-      "path": "备注/个人pc.md"
+      "basename": "社区商店",
+      "path": "get power/创业/社区商店.md"
     },
     {
       "basename": "OpenCV",
@@ -25,20 +21,24 @@
       "path": "get power/开发/AIot人工智能物联网.md"
     },
     {
-      "basename": "数学",
-      "path": "get power/开发/数学.md"
-    },
-    {
-      "basename": "社区商店",
-      "path": "get power/创业/社区商店.md"
-    },
-    {
-      "basename": "商业计划书",
-      "path": "get power/创业/商业计划书.md"
+      "basename": "基于树莓派的商圈人流量统计",
+      "path": "get power/开发/基于树莓派的商圈人流量统计.md"
     },
     {
       "basename": "精益创业",
       "path": "get power/创业/精益创业.md"
+    },
+    {
+      "basename": "个人pc",
+      "path": "备注/个人pc.md"
+    },
+    {
+      "basename": "数学",
+      "path": "get power/开发/数学.md"
+    },
+    {
+      "basename": "商业计划书",
+      "path": "get power/创业/商业计划书.md"
     },
     {
       "basename": "未命名看板",
